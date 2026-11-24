@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-sociallinks",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n community node for sociallinks.dev \u2014 resolve a creator profile to accounts across platforms",
 	"license": "MIT",
 	"homepage": "https://sociallinks.dev",

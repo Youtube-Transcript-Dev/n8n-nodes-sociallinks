@@ -3,7 +3,7 @@
 | Field | Value |
 | --- | --- |
 | GitHub | https://github.com/Youtube-Transcript-Dev/n8n-nodes-sociallinks |
-| npm package | `n8n-nodes-sociallinks@0.1.0` |
+| npm package | `n8n-nodes-sociallinks@0.1.1` |
 | Install | Settings → Community nodes → `n8n-nodes-sociallinks` |
 | Site | https://sociallinks.dev |
 | Docs / OpenAPI | https://sociallinks.dev/api · https://sociallinks.dev/openapi.json |
