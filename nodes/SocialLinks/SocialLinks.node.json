@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-sociallinks.socialLinks",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Marketing & Content", "Utility"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://sociallinks.dev/dashboard/api#api-keys"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/Youtube-Transcript-Dev/creator-sites/tree/main/integrations/n8n-nodes-sociallinks#readme"
+			}
+		]
+	}
+}
